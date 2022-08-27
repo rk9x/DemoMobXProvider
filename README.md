@@ -8,5 +8,5 @@ TODO:
         * Locate assets/.env 
         * Add Games API key in .env file GAMES_API_KEY = ''
 
-- [GitHub: Project available](https://docs.flutter.dev/get-started/codelab)
+- [GitHub: Project available](https://github.com/rk9x/DemoMobXProvider)
 
